@@ -41,7 +41,6 @@
   * BicContest NS SHOP+ 판매실적 예측을 통한 편성 최적화 방안(모형) 도출: ongoing.
 
 <br>
----
 
-<img align="left" alt="eraser's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sirzzang&show_icons=true&hide_border=true" />
+<img align="center" alt="eraser's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sirzzang&show_icons=true&hide_border=true" />
 
