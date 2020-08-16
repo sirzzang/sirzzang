@@ -4,14 +4,14 @@
 
 <img align="left" alt="eraser's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sirzzang&show_icons=true&hide_border=true" />
 
-<br>
+---
 
 * :pencil: **Currently** studying at Multicampus.
 * 🌱 **Hoping** to grow up as a ML/DL engineer/researcher.
 * :dart: **2020 Goals**: Contributing more to open source projects; Collaborateing with developers; ~~Getting a Job🤣~~.
 * ✨ **Fun facts**: Inquisitive; Love to learn everything new; Active.
 
-<br>
+---
 
 ## Skills 
 
