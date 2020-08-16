@@ -7,6 +7,7 @@
 * :dart: **2020 Goals**: Contributing more to open source projects; Collaborateing with developers; ~~Getting a Job🤣~~.
 * ✨ **Fun facts**: Inquisitive; Love to learn everything new; Active.
 
+<br>
 
 ## Skills 
 
@@ -39,6 +40,7 @@
   * DACON 제주 신용카드 빅데이터 경진대회: 36 / 411.🥇
   * BicContest NS SHOP+ 판매실적 예측을 통한 편성 최적화 방안(모형) 도출: ongoing.
 
+<br>
 ---
 
 <img align="left" alt="eraser's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sirzzang&show_icons=true&hide_border=true" />
