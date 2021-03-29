@@ -10,7 +10,9 @@
 <br>
 
  Hi, I'm Ieere Song(a.k.a Eraser). Thank you for visiting.
-
 <br>
+* [Personal Study Blog](https://sirzzang.github.io)
+* [Personal Project Blog](https://projectlog-eraser.tistory.com/)
+
 
 <!--
