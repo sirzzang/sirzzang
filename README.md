@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome to Eraser's Github
+<br>
+
+Hi, I'm Ieere Song(a.k.a Eraser). Thank you for visiting👋
+
+* [Personal Study Blog](https://sirzzang.github.io)
+* [Personal Project Blog](https://projectlog-eraser.tistory.com/)
+
 
 <!--
 **sirzzang/sirzzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
